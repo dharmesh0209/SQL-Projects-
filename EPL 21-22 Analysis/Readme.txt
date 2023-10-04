@@ -12,6 +12,7 @@ To provide valuable insights into the season's outcomes, including the champion,
 
 3. Data Sources:
 This data is  acquired from Kaggle Website. LINK: https://www.kaggle.com/datasets/azminetoushikwasi/epl-21-22-matches-players
+Player stats data was scrapped from web to extract Assits and Minutes played data. Data was Scrapped from Fbref site.(https://fbref.com/en/comps/9/2021-2022/)
 
 4. Methodology:
 The project will utilize SQL (Structured Query Language) for data analysis. SQL allows for efficient querying, aggregation, and manipulation of large datasets, making it an ideal choice for analyzing the EPL data.
@@ -37,3 +38,6 @@ B) Player Analysis
 Top 5 Goal scorers in league
 Top Scorer for each team
 Top 5 Highest scoring Midfielder & Defenders
+Player Goal Contributions
+Goals per 90 
+Goal contribution per 90
