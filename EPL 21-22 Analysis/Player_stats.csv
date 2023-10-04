@@ -1,0 +1,547 @@
+Player,Club,Position,Age,Appearances,Starts,Minutes,Goals,Assists,Penalties,Yellow_cards,Red_cards
+Bukayo Saka,Arsenal,Forward,19,38,36,2978,11,7,2,6,0
+Gabriel Dos Santos,Arsenal,Defender,23,35,35,3063,5,0,0,8,1
+Aaron Ramsdale,Arsenal,Goalkeeper,23,34,34,3060,0,0,0,1,0
+Ben White,Arsenal,Defender,23,32,32,2880,0,0,0,3,0
+Martin Ødegaard,Arsenal,Midfielder,22,36,32,2785,7,4,0,4,0
+Granit Xhaka,Arsenal,Midfielder,28,27,27,2327,1,2,0,10,1
+Thomas Partey,Arsenal,Midfielder,28,24,23,2028,2,1,0,6,0
+Kieran Tierney,Arsenal,Defender,24,22,22,1915,1,3,0,0,0
+Emile Smith Rowe,Arsenal,Midfielder,21,33,21,1921,10,2,0,1,0
+Gabriel Martinelli,Arsenal,Forward,20,29,21,1860,6,6,1,3,1
+Alexandre Lacazette,Arsenal,Forward,30,30,20,1782,4,7,2,0,0
+Takehiro Tomiyasu,Arsenal,Defender,22,21,20,1679,0,1,0,2,0
+Cédric Soares,Arsenal,Defender,29,21,16,1486,1,1,0,3,0
+Nuno Tavares,Arsenal,Defender,21,22,13,1176,1,1,0,2,0
+Albert Sambi Lokonga,Arsenal,Midfielder,21,19,12,1134,0,0,0,5,0
+Pierre-Emerick Aubameyang,Arsenal,Forward,32,14,12,1037,4,1,0,3,0
+Rob Holding,Arsenal,Defender,25,15,9,845,1,0,0,4,1
+Eddie Nketiah,Arsenal,Forward,22,21,8,835,5,1,0,3,0
+Mohamed Elneny,Arsenal,Midfielder,29,14,8,806,0,2,0,1,0
+Nicolas Pépé,Arsenal,Forward,26,20,5,696,1,2,0,0,0
+Bernd Leno,Arsenal,Goalkeeper,29,4,4,360,0,0,0,0,0
+Ainsley Maitland-Niles,Arsenal,Midfielder,23,8,2,268,0,0,0,0,0
+Pablo Marí,Arsenal,Defender,27,2,2,180,0,0,0,1,0
+Calum Chambers,Arsenal,Defender,26,2,2,170,0,0,0,0,0
+Sead Kolašinac,Arsenal,Defender,28,2,1,91,0,0,0,1,0
+Folarin Balogun,Arsenal,Forward,20,2,1,70,0,0,0,0,0
+Reiss Nelson,Arsenal,Forward,21,1,0,20,0,0,0,0,0
+Pontus Jansson,Brentford,Defender,30,37,37,3321,3,1,0,7,0
+Christian Nørgaard,Brentford,Midfielder,27,35,35,3054,3,4,0,8,0
+Bryan Mbeumo,Brentford,Forward,21,35,34,2905,4,7,1,4,0
+Rico Henry,Brentford,Defender,24,34,33,2776,3,0,0,2,0
+Ivan Toney,Brentford,Forward,25,33,32,2909,12,5,5,8,0
+Ethan Pinnock,Brentford,Defender,28,32,32,2694,1,1,0,1,0
+Vitaly Janelt,Brentford,Midfielder,23,31,27,2298,4,0,0,3,0
+Sergi Canós,Brentford,Defender,24,31,25,2083,3,2,0,8,1
+David Raya,Brentford,Goalkeeper,25,24,24,2160,0,0,0,1,0
+Kristoffer Ajer,Brentford,Defender,23,24,23,1995,1,3,0,5,0
+Mathias Jensen,Brentford,Midfielder,25,31,19,1601,0,1,0,0,0
+Yoane Wissa,Brentford,Forward,24,30,12,1284,7,1,0,0,0
+Mads Roerslev,Brentford,Defender,22,21,12,1240,1,1,0,1,0
+Álvaro Fernández,Brentford,Goalkeeper,23,12,12,1080,0,0,0,0,0
+Frank Onyeka,Brentford,Midfielder,23,20,12,1045,0,0,0,4,0
+Christian Eriksen,Brentford,Midfielder,29,11,10,939,1,4,0,1,0
+Shandon Baptiste,Brentford,Midfielder,23,22,9,910,1,0,0,2,1
+Mads Bech Sørensen,Brentford,Defender,22,11,9,835,0,0,0,3,0
+Mathias Jørgensen,Brentford,Defender,31,8,6,518,1,0,0,2,0
+Saman Ghoddos,Brentford,Midfielder,27,17,4,536,1,1,0,2,0
+Charlie Goode,Brentford,Defender,25,6,4,450,0,0,0,3,0
+Josh Dasilva,Brentford,Midfielder,22,9,2,257,0,0,0,0,1
+Jonas Lössl,Brentford,Goalkeeper,32,2,2,180,0,0,0,0,0
+Dominic Thompson,Brentford,Defender,21,2,2,146,0,0,0,0,0
+Marcus Forss,Brentford,Forward,22,7,1,209,0,1,0,0,0
+Mads Bidstrup,Brentford,Midfielder,20,4,0,41,0,0,0,0,0
+Tariqe Fosu,Brentford,Defender,25,1,0,17,0,0,0,0,0
+Finley Stevens,Brentford,Defender,18,1,0,15,0,0,0,0,0
+Nathan Young-Coombes,Brentford,Midfielder,18,1,0,4,0,0,0,0,0
+Robert Sánchez,Brighton and Hove Albion,Goalkeeper,23,37,37,3329,0,0,0,3,1
+Marc Cucurella,Brighton and Hove Albion,Defender,23,35,35,3089,1,1,0,6,0
+Joël Veltman,Brighton and Hove Albion,Defender,29,34,33,2874,1,1,0,6,0
+Leandro Trossard,Brighton and Hove Albion,Forward,26,34,32,2805,8,3,1,2,0
+Lewis Dunk,Brighton and Hove Albion,Defender,29,29,29,2573,1,0,0,3,1
+Neal Maupay,Brighton and Hove Albion,Forward,24,32,25,2276,8,2,1,7,0
+Yves Bissouma,Brighton and Hove Albion,Midfielder,24,26,25,2111,1,2,0,10,0
+Pascal Groß,Brighton and Hove Albion,Midfielder,30,29,24,2038,2,4,0,1,0
+Alexis Mac Allister,Brighton and Hove Albion,Midfielder,22,33,22,2123,5,2,2,4,0
+Jakub Moder,Brighton and Hove Albion,Midfielder,22,28,19,1701,0,3,0,1,0
+Adam Lallana,Brighton and Hove Albion,Midfielder,33,24,18,1561,0,1,0,4,0
+Solly March,Brighton and Hove Albion,Defender,27,31,17,1746,0,2,0,1,0
+Tariq Lamptey,Brighton and Hove Albion,Defender,20,30,16,1561,0,2,0,4,0
+Adam Webster,Brighton and Hove Albion,Defender,26,22,16,1434,2,0,0,5,0
+Danny Welbeck,Brighton and Hove Albion,Forward,30,25,15,1478,6,2,0,0,0
+Shane Duffy,Brighton and Hove Albion,Defender,29,18,15,1436,1,0,0,7,0
+Dan Burn,Brighton and Hove Albion,Defender,29,13,12,1022,1,0,0,4,0
+Enock Mwepu,Brighton and Hove Albion,Midfielder,23,18,12,996,2,4,0,2,0
+Moisés Caicedo,Brighton and Hove Albion,Midfielder,19,8,8,660,1,1,0,2,0
+Steven Alzate,Brighton and Hove Albion,Midfielder,22,9,5,404,0,0,0,0,0
+Aaron Connolly,Brighton and Hove Albion,Forward,21,4,1,156,0,0,0,0,0
+Jason Steele,Brighton and Hove Albion,Goalkeeper,30,1,1,90,0,0,0,0,0
+Jeremy Sarmiento,Brighton and Hove Albion,Forward,19,5,1,48,0,0,0,0,0
+Taylor Richards,Brighton and Hove Albion,Midfielder,20,2,0,25,0,0,0,0,0
+Evan Ferguson,Brighton and Hove Albion,Midfielder,16,1,0,23,0,0,0,0,0
+Jürgen Locadia,Brighton and Hove Albion,Midfielder,27,1,0,23,0,0,0,0,0
+Nick Pope,Burnley,Goalkeeper,29,36,36,3240,0,0,0,1,0
+Dwight McNeil,Burnley,Midfielder,21,38,35,3107,0,1,0,1,0
+James Tarkowski,Burnley,Defender,28,35,35,3106,1,2,0,11,0
+Josh Brownhill,Burnley,Midfielder,25,35,32,2955,2,3,0,10,0
+Charlie Taylor,Burnley,Defender,27,31,30,2731,0,3,0,3,0
+Ashley Westwood,Burnley,Midfielder,31,27,26,2287,0,3,0,7,0
+Ben Mee,Burnley,Defender,31,21,21,1839,3,0,0,3,0
+Maxwel Cornet,Burnley,Forward,24,26,21,1766,9,1,0,2,0
+Matthew Lowton,Burnley,Defender,32,25,20,1772,1,2,0,3,1
+Jack Cork,Burnley,Midfielder,32,20,20,1670,1,0,0,4,0
+Connor Roberts,Burnley,Defender,25,21,19,1692,1,1,0,2,0
+Nathan Collins,Burnley,Defender,20,19,18,1670,2,0,0,2,1
+Aaron Lennon,Burnley,Midfielder,34,28,17,1551,2,0,0,2,0
+Wout Weghorst,Burnley,Forward,28,20,17,1450,2,3,0,3,0
+Chris Wood,Burnley,Forward,29,17,17,1367,3,0,0,1,0
+Jay Rodriguez,Burnley,Forward,32,29,13,1382,2,2,0,3,0
+Jóhann Berg Guðmundsson,Burnley,Midfielder,30,18,13,1102,0,1,0,2,0
+Ashley Barnes,Burnley,Forward,31,23,8,808,1,0,1,4,0
+Erik Pieters,Burnley,Defender,32,12,8,730,0,1,0,1,0
+Mat?j Vydra,Burnley,Forward,29,22,5,679,2,3,0,1,0
+Kevin Long,Burnley,Defender,30,6,4,410,0,0,0,1,0
+Wayne Hennessey,Burnley,Goalkeeper,34,2,2,180,0,0,0,0,0
+Dale Stephens,Burnley,Midfielder,32,3,1,124,0,0,0,1,0
+Edouard Mendy,Chelsea,Goalkeeper,29,34,34,3060,0,0,0,3,0
+Antonio Rüdiger,Chelsea,Defender,28,34,34,3035,3,0,0,9,0
+Thiago Silva,Chelsea,Defender,36,32,28,2650,3,0,0,2,0
+Mason Mount,Chelsea,Midfielder,22,32,27,2363,11,10,1,4,0
+Jorginho,Chelsea,Midfielder,29,29,26,2273,6,2,6,5,0
+Marcos Alonso,Chelsea,Defender,30,28,25,2167,4,4,0,8,0
+César Azpilicueta,Chelsea,Defender,31,27,24,2070,1,2,0,3,0
+Reece James,Chelsea,Defender,21,26,22,1864,5,9,0,4,1
+Kai Havertz,Chelsea,Forward,22,29,22,1809,8,3,0,3,0
+N'Golo Kanté,Chelsea,Midfielder,30,26,21,1773,2,4,0,2,0
+Andreas Christensen,Chelsea,Defender,25,19,17,1496,0,0,0,2,0
+Trevoh Chalobah,Chelsea,Defender,22,20,17,1449,3,1,0,2,0
+Romelu Lukaku,Chelsea,Forward,28,26,16,1589,8,0,1,1,0
+Mateo Kova?i?,Chelsea,Midfielder,27,25,16,1558,2,5,0,4,0
+Timo Werner,Chelsea,Forward,25,21,15,1283,4,1,0,1,0
+Hakim Ziyech,Chelsea,Midfielder,28,23,14,1319,4,3,0,3,0
+Ruben Loftus-Cheek,Chelsea,Midfielder,25,24,13,1394,0,2,0,1,0
+Christian Pulisic,Chelsea,Midfielder,22,22,13,1290,6,2,0,2,0
+Callum Hudson-Odoi,Chelsea,Midfielder,20,15,11,962,1,2,0,1,0
+Malang Sarr,Chelsea,Defender,22,8,6,546,0,0,0,2,0
+Ben Chilwell,Chelsea,Defender,24,7,6,542,3,1,0,0,0
+Saúl Ñíguez,Chelsea,Defender,26,10,5,480,0,0,0,1,0
+Kepa Arrizabalaga,Chelsea,Goalkeeper,26,4,4,360,0,0,0,0,0
+Ross Barkley,Chelsea,Midfielder,27,6,1,179,1,0,0,0,0
+Kenedy,Chelsea,Defender,25,1,1,58,0,1,0,0,0
+Emerson Palmieri,Chelsea,Defender,26,1,0,5,0,0,0,0,0
+Ederson,Manchester City,Goalkeeper,27,37,37,3330,0,0,0,3,0
+João Cancelo,Manchester City,Defender,27,36,36,3227,1,7,0,7,0
+Rodri,Manchester City,Midfielder,25,33,33,2884,7,2,0,5,0
+Bernardo Silva,Manchester City,Midfielder,26,35,33,2857,8,4,0,6,0
+Aymeric Laporte,Manchester City,Defender,27,33,33,2828,4,0,0,5,1
+Rúben Dias,Manchester City,Defender,24,29,27,2402,2,4,0,5,0
+Kevin De Bruyne,Manchester City,Midfielder,30,30,25,2201,15,8,0,2,0
+Phil Foden,Manchester City,Forward,21,28,24,2128,9,5,0,1,0
+Raheem Sterling,Manchester City,Forward,26,30,23,2128,13,5,2,1,0
+Jack Grealish,Manchester City,Forward,25,26,22,1914,3,3,0,3,0
+Gabriel Jesus,Manchester City,Forward,24,28,21,1877,8,8,1,1,0
+?lkay Gündo?an,Manchester City,Midfielder,30,27,20,1857,8,4,0,1,0
+Kyle Walker,Manchester City,Defender,31,20,20,1755,0,2,0,1,0
+Riyad Mahrez,Manchester City,Forward,30,28,15,1498,11,5,4,0,0
+John Stones,Manchester City,Defender,27,14,12,1119,1,0,0,0,0
+Oleksandr Zinchenko,Manchester City,Defender,24,15,10,1047,0,4,0,0,0
+Fernandinho,Manchester City,Midfielder,36,19,10,964,2,1,0,1,0
+Nathan Aké,Manchester City,Defender,26,14,10,923,2,0,0,0,0
+Ferrán Torres,Manchester City,Forward,21,4,4,303,2,1,0,0,0
+Cole Palmer,Manchester City,Forward,19,4,1,123,0,0,0,0,0
+Zack Steffen,Manchester City,Goalkeeper,26,1,1,90,0,0,0,0,0
+Benjamin Mendy,Manchester City,Defender,27,1,1,78,0,0,0,0,0
+James Mcatee,Manchester City,Midfielder,18,2,0,20,0,0,0,0,0
+Liam Delap,Manchester City,Forward,18,1,0,10,0,0,0,0,0
+Kayky Chagas,Manchester City,Forward,18,1,0,7,0,0,0,0,0
+CJ Egan-Riley,Manchester City,Defender,18,1,0,4,0,0,0,0,0
+Jordan Pickford,Everton,Goalkeeper,27,35,35,3150,0,0,0,2,0
+Michael Keane,Everton,Defender,28,32,31,2792,3,2,0,4,1
+Séamus Coleman,Everton,Defender,32,30,30,2656,1,0,0,4,0
+Abdoulaye Doucouré,Everton,Midfielder,28,30,29,2537,2,4,0,6,0
+Richarlison,Everton,Forward,24,30,28,2523,10,5,3,9,0
+Demarai Gray,Everton,Midfielder,25,34,28,2338,5,4,0,3,0
+Anthony Gordon,Everton,Midfielder,20,35,25,2285,4,2,0,4,0
+Allan,Everton,Midfielder,30,28,25,2183,0,2,0,7,1
+Mason Holgate,Everton,Defender,24,25,23,2134,2,1,0,7,1
+Ben Godfrey,Everton,Defender,23,23,23,2029,0,0,0,6,0
+Alex Iwobi,Everton,Midfielder,25,28,22,2035,2,2,0,1,0
+Andros Townsend,Everton,Midfielder,30,21,17,1455,3,2,1,3,0
+Dominic Calvert-Lewin,Everton,Forward,24,17,15,1283,5,2,2,2,0
+Lucas Digne,Everton,Defender,28,13,13,1170,0,0,0,4,0
+Vitaliy Mykolenko,Everton,Defender,22,13,12,1055,1,0,0,0,0
+Jonjoe Kenny,Everton,Defender,24,15,11,1018,0,1,0,3,1
+Yerry Mina,Everton,Defender,26,13,11,846,0,0,0,3,0
+Salomón Rondón,Everton,Forward,31,20,8,790,1,1,0,3,1
+Fabian Delph,Everton,Midfielder,31,11,8,662,0,0,0,2,0
+André Gomes,Everton,Midfielder,28,14,7,619,0,1,0,3,0
+Donny van de Beek,Everton,Midfielder,24,7,5,483,1,0,0,1,0
+Jarrad Branthwaite,Everton,Defender,19,6,4,388,1,0,0,0,1
+Asmir Begovi?,Everton,Goalkeeper,34,3,3,270,0,0,0,0,0
+Tom Davies,Everton,Midfielder,23,6,2,234,1,0,0,1,0
+Dele Alli,Everton,Midfielder,25,11,1,338,0,0,0,3,0
+Jean-Philippe Gbamin,Everton,Midfielder,25,3,1,67,0,0,0,0,0
+Ellis Simms,Everton,Forward,20,1,1,61,0,0,0,0,0
+Lewis Dobbin,Everton,Forward,18,3,0,32,0,0,0,1,0
+Tyler Onyango,Everton,Midfielder,18,3,0,28,0,0,0,0,0
+Isaac Price,Everton,Midfielder,17,1,0,14,0,0,0,0,0
+Anwar El Ghazi,Everton,Forward,26,2,0,13,0,0,0,0,0
+Cenk Tosun,Everton,Midfielder,30,1,0,7,0,0,0,0,0
+Moise Kean,Everton,Forward,21,1,0,1,0,0,0,0,0
+Illan Meslier,Leeds United,Goalkeeper,21,38,38,3384,0,0,0,2,0
+Stuart Dallas,Leeds United,Defender,30,34,34,2919,1,1,0,5,0
+Raphinha,Leeds United,Forward,24,35,34,2915,11,3,4,7,0
+Jack Harrison,Leeds United,Forward,24,35,32,2639,8,1,0,3,0
+Daniel James,Leeds United,Forward,23,32,29,2366,4,4,0,7,1
+Diego Llorente,Leeds United,Defender,27,28,28,2340,3,0,0,7,0
+Rodrigo,Leeds United,Midfielder,30,31,27,2265,6,1,1,9,0
+Luke Ayling,Leeds United,Defender,29,26,26,2272,2,2,0,4,1
+Mateusz Klich,Leeds United,Midfielder,31,33,26,2073,1,2,0,5,0
+Pascal Struijk,Leeds United,Defender,21,29,22,2055,1,0,0,6,1
+Liam Cooper,Leeds United,Defender,29,21,21,1814,0,1,0,5,0
+Junior Firpo,Leeds United,Defender,24,24,19,1711,0,2,0,11,0
+Kalvin Phillips,Leeds United,Midfielder,25,20,18,1596,0,1,0,4,0
+Robin Koch,Leeds United,Midfielder,25,20,17,1574,0,0,0,3,0
+Adam Forshaw,Leeds United,Midfielder,29,22,17,1530,0,1,0,5,0
+Tyler Roberts,Leeds United,Midfielder,22,23,7,987,1,1,0,5,0
+Jamie Shackleton,Leeds United,Defender,21,14,7,709,0,0,0,4,0
+Patrick Bamford,Leeds United,Forward,27,9,7,559,2,2,0,2,0
+Joe Gelhardt,Leeds United,Forward,19,20,5,746,2,2,0,4,0
+Sam Greenwood,Leeds United,Midfielder,19,7,1,237,0,2,0,0,0
+Lewis Bate,Leeds United,Midfielder,18,3,1,146,0,0,0,0,0
+Charlie Cresswell,Leeds United,Defender,18,5,1,141,0,0,0,1,0
+Cody Drameh,Leeds United,Defender,19,3,1,128,0,0,0,1,0
+Leo Fuhr Hjelde,Leeds United,Midfielder,17,2,0,150,0,0,0,0,0
+Crysencio Summerville,Leeds United,Midfielder,19,6,0,130,0,0,0,0,0
+Kristoffer Klaesson,Leeds United,Goalkeeper,20,1,0,36,0,0,0,0,0
+Hélder Costa,Leeds United,Midfielder,27,1,0,22,0,0,0,0,0
+Liam McCarron,Leeds United,Forward,20,1,0,10,0,0,0,0,0
+Stuart McKinstry,Leeds United,Midfielder,18,1,0,4,0,0,0,0,0
+Kasper Schmeichel,Leicester City,Goalkeeper,34,37,37,3330,0,0,0,2,0
+Youri Tielemans,Leicester City,Midfielder,24,32,29,2631,6,4,2,3,0
+Ça?lar Söyüncü,Leicester City,Defender,25,28,28,2497,1,0,0,5,0
+James Maddison,Leicester City,Midfielder,24,35,28,2459,12,8,0,3,0
+Harvey Barnes,Leicester City,Forward,23,32,24,2101,6,10,0,2,0
+Daniel Amartey,Leicester City,Defender,26,28,23,2123,0,0,0,4,0
+Kiernan Dewsbury-Hall,Leicester City,Midfielder,22,28,23,2105,1,2,0,4,0
+Timothy Castagne,Leicester City,Defender,25,27,22,2127,1,0,0,1,0
+Luke Thomas,Leicester City,Defender,20,22,21,1912,0,1,0,2,0
+Jamie Vardy,Leicester City,Forward,34,25,20,1806,15,2,0,2,0
+Wilfred Ndidi,Leicester City,Midfielder,24,19,18,1618,0,0,0,4,0
+Ademola Lookman,Leicester City,Forward,23,26,16,1453,6,0,0,2,0
+Jonny Evans,Leicester City,Defender,33,18,16,1348,1,1,0,3,0
+Kelechi Iheanacho,Leicester City,Forward,24,26,13,1264,4,5,0,1,0
+Patson Daka,Leicester City,Forward,22,23,13,1159,5,3,0,2,0
+Ricardo Pereira,Leicester City,Defender,27,14,13,991,1,3,0,3,0
+Boubakary Soumaré,Leicester City,Midfielder,22,19,12,1102,0,1,0,0,0
+Nampalys Mendy,Leicester City,Midfielder,29,14,12,1032,0,0,0,3,0
+Marc Albrighton,Leicester City,Forward,31,17,11,1132,1,2,0,3,0
+James Justin,Leicester City,Defender,23,13,11,998,0,0,0,0,0
+Wesley Fofana,Leicester City,Defender,20,7,7,630,0,0,0,2,0
+Jannik Vestergaard,Leicester City,Defender,28,10,6,567,0,0,0,2,0
+Ayoze Pérez,Leicester City,Midfielder,28,14,6,445,2,3,0,0,1
+Ryan Bertrand,Leicester City,Defender,31,4,4,337,0,0,0,1,0
+Hamza Choudhury,Leicester City,Defender,23,6,4,285,0,0,0,1,0
+Danny Ward,Leicester City,Goalkeeper,28,1,1,90,0,0,0,0,0
+Lewis Brunt,Leicester City,Midfielder,20,1,0,24,0,0,0,0,0
+Kasey McAteer,Leicester City,Forward,19,1,0,3,0,0,0,0,0
+Alisson,Liverpool,Goalkeeper,28,36,36,3240,0,1,0,0,0
+Virgil van Dijk,Liverpool,Defender,30,34,34,3060,3,1,0,3,0
+Trent Alexander-Arnold,Liverpool,Defender,22,32,32,2853,2,12,0,2,0
+Sadio Mané,Liverpool,Forward,29,34,32,2819,16,2,0,5,0
+Joël Matip,Liverpool,Defender,29,31,31,2790,3,3,0,2,0
+Mohamed Salah,Liverpool,Forward,29,35,30,2762,23,13,5,1,0
+Jordan Henderson,Liverpool,Midfielder,31,35,29,2597,2,5,0,3,0
+Andrew Robertson,Liverpool,Defender,27,29,29,2537,3,10,0,5,1
+Diogo Jota,Liverpool,Forward,24,35,27,2364,15,4,0,3,0
+Fabinho,Liverpool,Midfielder,27,29,26,2314,5,1,2,7,0
+Thiago Alcántara,Liverpool,Midfielder,30,25,17,1534,1,4,0,2,0
+Naby Keïta,Liverpool,Midfielder,26,23,14,1173,3,1,0,3,0
+Ibrahima Konaté,Liverpool,Defender,22,11,11,990,0,0,0,2,0
+Luis Díaz,Liverpool,Forward,24,13,11,958,4,3,0,0,0
+Roberto Firmino,Liverpool,Forward,29,20,10,990,5,4,0,3,0
+Curtis Jones,Liverpool,Midfielder,20,15,10,851,1,1,0,0,0
+Kostas Tsimikas,Liverpool,Defender,25,13,9,877,0,2,0,3,0
+James Milner,Liverpool,Midfielder,35,24,9,853,0,1,0,2,0
+Alex Oxlade-Chamberlain,Liverpool,Midfielder,27,17,9,785,2,1,0,0,0
+Harvey Elliott,Liverpool,Midfielder,18,6,4,346,0,0,0,0,0
+Joe Gomez,Liverpool,Defender,24,8,4,331,0,1,0,2,0
+Caoimhín Kelleher,Liverpool,Goalkeeper,22,2,2,180,0,0,0,0,0
+Takumi Minamino,Liverpool,Forward,26,11,1,186,3,0,0,1,0
+Tyler Morton,Liverpool,Midfielder,18,2,1,66,0,0,0,1,0
+Divock Origi,Liverpool,Forward,26,7,0,133,3,0,0,0,0
+Kaide Gordon,Liverpool,Forward,16,1,0,9,0,0,0,0,0
+Neco Williams,Liverpool,Defender,20,1,0,8,0,1,0,0,0
+David de Gea,Manchester United,Goalkeeper,30,38,38,3420,0,0,0,0,0
+Bruno Fernandes,Manchester United,Midfielder,26,36,35,3111,10,6,0,10,0
+Harry Maguire,Manchester United,Defender,28,30,28,2515,1,0,0,9,1
+Scott McTominay,Manchester United,Midfielder,24,30,28,2387,1,1,0,9,0
+Cristiano Ronaldo,Manchester United,Forward,36,30,27,2456,18,3,3,8,0
+Victor Lindelöf,Manchester United,Defender,27,28,26,2355,0,2,0,4,0
+Fred,Manchester United,Midfielder,28,28,24,2028,4,4,0,5,0
+Jadon Sancho,Manchester United,Forward,21,29,20,1900,3,3,0,0,0
+Raphaël Varane,Manchester United,Defender,28,22,20,1831,1,1,0,0,0
+Aaron Wan-Bissaka,Manchester United,Defender,23,20,20,1793,0,0,0,2,0
+Diogo Dalot,Manchester United,Defender,22,24,19,1801,0,0,0,4,0
+Luke Shaw,Manchester United,Defender,26,20,19,1601,0,3,0,8,0
+Alex Telles,Manchester United,Defender,28,21,18,1660,0,4,0,1,0
+Nemanja Mati?,Manchester United,Midfielder,32,23,16,1382,0,4,0,3,0
+Paul Pogba,Manchester United,Midfielder,28,20,16,1349,1,9,0,7,1
+Mason Greenwood,Manchester United,Forward,19,18,16,1271,5,1,0,1,0
+Anthony Elanga,Manchester United,Forward,19,21,14,1214,2,2,0,0,0
+Marcus Rashford,Manchester United,Forward,23,25,13,1235,4,2,0,2,0
+Edinson Cavani,Manchester United,Forward,34,15,7,766,2,1,0,0,0
+Eric Bailly,Manchester United,Defender,27,4,3,217,0,0,0,1,0
+Jesse Lingard,Manchester United,Forward,28,16,2,367,2,0,0,1,0
+Juan Mata,Manchester United,Midfielder,33,7,2,235,0,0,0,0,0
+Anthony Martial,Manchester United,Forward,25,8,2,212,1,0,0,0,0
+Phil Jones,Manchester United,Defender,29,4,2,163,0,0,0,0,0
+Daniel James,Manchester United,Forward,23,2,2,126,0,0,0,0,0
+Hannibal Mejbri,Manchester United,Forward,18,2,1,68,0,0,0,2,0
+Donny van de Beek,Manchester United,Midfielder,24,8,0,75,1,0,0,0,0
+Shola Shoretire,Manchester United,Midfielder,17,1,0,16,0,0,0,0,0
+Alejandro Garnacho,Manchester United,Forward,17,2,0,13,0,0,0,0,0
+Allan Saint-Maximin,Newcastle United,Forward,24,35,31,2804,5,5,0,6,0
+Joelinton,Newcastle United,Midfielder,24,35,30,2558,4,1,0,8,0
+Martin Dúbravka,Newcastle United,Goalkeeper,32,26,26,2340,0,0,0,1,0
+Fabian Schär,Newcastle United,Defender,29,25,25,2158,2,2,0,4,0
+Joe Willock,Newcastle United,Midfielder,21,29,24,2038,2,0,0,0,0
+Jamaal Lascelles,Newcastle United,Defender,27,26,22,2058,1,0,0,5,0
+Jonjo Shelvey,Newcastle United,Midfielder,29,24,22,1983,2,1,0,7,1
+Miguel Almirón,Newcastle United,Midfielder,27,30,19,1716,1,0,0,2,0
+Emil Krafth,Newcastle United,Defender,26,20,18,1634,0,1,0,5,0
+Ryan Fraser,Newcastle United,Forward,27,27,18,1465,2,3,0,3,0
+Dan Burn,Newcastle United,Defender,29,16,16,1440,0,1,0,4,0
+Matt Targett,Newcastle United,Defender,25,16,16,1440,0,0,0,1,0
+Callum Wilson,Newcastle United,Forward,29,18,16,1386,8,0,2,4,0
+Sean Longstaff,Newcastle United,Midfielder,23,24,15,1464,1,1,0,1,0
+Chris Wood,Newcastle United,Forward,29,17,15,1327,2,0,1,0,0
+Javier Manquillo,Newcastle United,Defender,27,19,15,1257,1,2,0,5,0
+Matt Ritchie,Newcastle United,Defender,31,18,14,1337,0,2,0,5,0
+Jacob Murphy,Newcastle United,Forward,26,33,13,1473,1,2,0,4,0
+Ciaran Clark,Newcastle United,Defender,31,13,12,1014,0,1,0,2,1
+Isaac Hayden,Newcastle United,Midfielder,26,14,12,1002,1,0,0,5,0
+Bruno Guimarães,Newcastle United,Midfielder,23,17,11,1034,5,1,0,4,0
+Karl Darlow,Newcastle United,Goalkeeper,30,8,8,720,0,0,0,1,0
+Federico Fernández,Newcastle United,Defender,32,7,5,523,0,0,0,0,0
+Kieran Trippier,Newcastle United,Defender,30,6,5,429,2,0,0,0,0
+Freddie Woodman,Newcastle United,Goalkeeper,24,4,4,360,0,0,0,0,0
+Jamal Lewis,Newcastle United,Defender,23,5,4,262,0,0,0,1,0
+Paul Dummett,Newcastle United,Defender,29,3,2,198,0,0,0,2,0
+Jeff Hendrick,Newcastle United,Midfielder,29,3,0,72,1,0,0,0,0
+Dwight Gayle,Newcastle United,Forward,30,8,0,38,0,0,0,1,0
+Teemu Pukki,Norwich City,Forward,31,37,37,3253,11,3,3,4,0
+Grant Hanley,Norwich City,Defender,29,33,33,2897,1,0,0,2,0
+Max Aarons,Norwich City,Defender,21,34,32,2881,0,2,0,8,0
+Kenny McLean,Norwich City,Midfielder,29,31,29,2706,1,0,0,3,0
+Tim Krul,Norwich City,Goalkeeper,33,29,29,2610,0,0,0,1,0
+Ben Gibson,Norwich City,Defender,28,28,28,2494,0,0,0,5,1
+Pierre Lees-Melou,Norwich City,Midfielder,28,33,27,2265,1,0,0,5,0
+Milot Rashica,Norwich City,Forward,25,31,25,2229,1,2,0,0,0
+Brandon Williams,Norwich City,Defender,20,26,23,2120,0,1,0,8,0
+Billy Gilmour,Norwich City,Midfielder,20,24,21,1855,0,1,0,2,0
+Mathias Normann,Norwich City,Midfielder,25,23,20,1645,1,2,0,6,0
+Josh Sargent,Norwich City,Forward,21,26,18,1572,2,1,0,1,0
+Dimitris Giannoulis,Norwich City,Defender,25,18,14,1169,0,1,0,2,0
+Sam Byram,Norwich City,Defender,27,15,11,1027,0,0,0,3,0
+Ozan Kabak,Norwich City,Defender,21,11,11,922,0,0,0,2,0
+Kieran Dowell,Norwich City,Forward,23,19,11,912,1,1,0,0,0
+Angus Gunn,Norwich City,Goalkeeper,25,9,9,810,0,0,0,0,0
+Lukas Rupp,Norwich City,Midfielder,30,19,7,769,0,0,0,0,0
+Adam Idah,Norwich City,Forward,20,17,6,625,1,1,0,0,0
+Jakob Sørensen,Norwich City,Midfielder,23,10,6,604,0,0,0,0,0
+Przemys?aw P?acheta,Norwich City,Forward,23,12,6,504,0,0,0,1,0
+Todd Cantwell,Norwich City,Forward,23,8,5,441,0,0,0,2,0
+Andrew Omobamidele,Norwich City,Defender,19,5,4,382,1,0,0,1,0
+Christos Tzolis,Norwich City,Forward,19,14,3,336,0,0,0,0,0
+Christoph Zimmermann,Norwich City,Defender,28,3,2,157,0,0,0,0,0
+Tony Springett,Norwich City,Midfielder,18,3,1,141,0,0,0,1,0
+Jon Rowe,Norwich City,Forward,18,13,0,223,0,1,0,0,0
+Bali Mumba,Norwich City,Defender,19,1,0,45,0,0,0,0,0
+Marc Guéhi,Crystal Palace,Defender,21,36,36,3222,2,1,0,4,0
+Tyrick Mitchell,Crystal Palace,Defender,21,36,35,3101,0,2,0,1,0
+Conor Gallagher,Crystal Palace,Midfielder,21,34,33,2845,8,3,0,10,0
+Joachim Andersen,Crystal Palace,Defender,25,34,32,2916,0,3,0,4,0
+Wilfried Zaha,Crystal Palace,Forward,28,33,31,2760,14,1,5,6,1
+Vicente Guaita,Crystal Palace,Goalkeeper,34,30,30,2655,0,0,0,2,0
+Joel Ward,Crystal Palace,Defender,31,28,27,2487,0,0,0,8,0
+Jordan Ayew,Crystal Palace,Forward,29,31,23,2019,3,3,0,2,0
+Cheikhou Kouyaté,Crystal Palace,Midfielder,31,27,23,1974,0,1,0,3,0
+Jeffrey Schlupp,Crystal Palace,Midfielder,28,32,20,1851,4,1,0,1,0
+Odsonne Édouard,Crystal Palace,Forward,23,28,18,1564,6,3,1,4,0
+James McArthur,Crystal Palace,Midfielder,33,21,15,1439,0,3,0,4,0
+Nathaniel Clyne,Crystal Palace,Defender,30,16,15,1351,0,1,0,1,0
+Jean-Philippe Mateta,Crystal Palace,Forward,24,22,13,1145,5,1,0,2,0
+Will Hughes,Crystal Palace,Midfielder,26,16,13,1053,0,1,0,6,0
+Michael Olise,Crystal Palace,Forward,19,26,12,1141,2,5,0,4,0
+Christian Benteke,Crystal Palace,Forward,30,25,11,1145,4,1,0,3,0
+Luka Milivojevi?,Crystal Palace,Midfielder,30,15,9,774,0,0,0,1,0
+Jack Butland,Crystal Palace,Goalkeeper,28,9,8,765,0,0,0,0,0
+Eberechi Eze,Crystal Palace,Midfielder,23,13,6,605,1,1,0,1,0
+James Tomkins,Crystal Palace,Defender,32,8,6,547,1,0,0,2,0
+Jaïro Riedewald,Crystal Palace,Midfielder,24,3,1,118,0,0,0,0,0
+Jesuran Rak Sakyi,Crystal Palace,Forward,18,2,1,80,0,0,0,0,0
+Nathan Ferguson,Crystal Palace,Defender,20,1,0,9,0,0,0,0,0
+James Ward-Prowse,Southampton,Midfielder,26,36,36,3215,10,5,4,3,1
+Oriol Romeu,Southampton,Midfielder,29,36,34,2889,2,2,0,9,0
+Mohammed Salisu,Southampton,Defender,22,34,33,2972,0,0,0,10,1
+Jan Bednarek,Southampton,Defender,25,31,30,2629,4,0,0,10,0
+Kyle Walker-Peters,Southampton,Defender,24,32,29,2633,1,2,0,5,0
+Valentino Livramento,Southampton,Defender,18,28,25,2202,1,1,0,2,0
+Mohamed Elyounoussi,Southampton,Midfielder,26,30,23,2042,4,2,0,4,0
+Che Adams,Southampton,Forward,25,30,23,2039,7,3,0,0,0
+Armando Broja,Southampton,Forward,19,32,21,1975,6,0,0,2,0
+Nathan Redmond,Southampton,Midfielder,27,27,20,1833,1,5,0,0,0
+Fraser Forster,Southampton,Goalkeeper,33,19,19,1710,0,0,0,1,0
+Romain Perraud,Southampton,Defender,23,20,18,1623,0,1,0,3,0
+Alex McCarthy,Southampton,Goalkeeper,31,17,17,1530,0,0,0,1,0
+Adam Armstrong,Southampton,Forward,24,23,17,1413,2,2,0,1,0
+Stuart Armstrong,Southampton,Midfielder,29,25,15,1473,2,0,0,1,0
+Ibrahima Diallo,Southampton,Midfielder,22,23,10,1023,0,2,0,1,0
+Nathan Tella,Southampton,Midfielder,22,14,10,804,0,1,0,2,0
+Lyanco,Southampton,Defender,24,15,9,911,0,0,0,2,0
+Jack Stephens,Southampton,Defender,27,11,9,811,0,0,0,3,0
+Moussa Djenepo,Southampton,Midfielder,23,12,5,457,0,0,0,3,0
+Theo Walcott,Southampton,Midfielder,32,9,5,379,0,0,0,0,0
+Yan Valery,Southampton,Defender,22,5,3,370,0,0,0,0,0
+Shane Long,Southampton,Forward,34,13,3,308,1,0,0,1,0
+Willy Caballero,Southampton,Goalkeeper,39,2,2,180,0,0,0,1,0
+William Smallbone,Southampton,Midfielder,21,4,2,133,0,0,0,0,0
+Hugo Lloris,Tottenham Hotspur,Goalkeeper,34,38,38,3420,0,0,0,2,0
+Harry Kane,Tottenham Hotspur,Forward,28,37,36,3232,17,9,4,5,0
+Pierre Højbjerg,Tottenham Hotspur,Midfielder,25,36,36,3196,2,2,0,3,0
+Eric Dier,Tottenham Hotspur,Defender,27,35,35,3071,0,0,0,1,0
+Son Heung-min,Tottenham Hotspur,Midfielder,29,35,35,3006,23,7,0,2,0
+Ben Davies,Tottenham Hotspur,Defender,28,29,28,2538,1,1,0,6,0
+Emerson,Tottenham Hotspur,Defender,22,31,26,2286,1,1,0,5,0
+Sergio Reguilón,Tottenham Hotspur,Defender,24,25,22,1916,2,3,0,4,0
+Cristian Romero,Tottenham Hotspur,Defender,23,22,21,1844,1,0,0,8,0
+Lucas Moura,Tottenham Hotspur,Forward,28,34,19,1775,2,6,0,4,0
+Davinson Sánchez,Tottenham Hotspur,Defender,25,23,17,1631,2,0,0,4,0
+Rodrigo Bentancur,Tottenham Hotspur,Midfielder,24,17,16,1361,0,4,0,5,0
+Oliver Skipp,Tottenham Hotspur,Midfielder,20,18,14,1350,0,0,0,6,0
+Dejan Kulusevski,Tottenham Hotspur,Midfielder,21,18,14,1261,5,8,0,3,0
+Ryan Sessegnon,Tottenham Hotspur,Defender,21,15,13,1047,0,2,0,2,0
+Japhet Tanganga,Tottenham Hotspur,Defender,22,11,10,735,0,0,0,4,1
+Harry Winks,Tottenham Hotspur,Midfielder,25,19,9,912,0,1,0,2,0
+Matt Doherty,Tottenham Hotspur,Defender,29,15,9,875,2,4,0,0,0
+Dele Alli,Tottenham Hotspur,Midfielder,25,10,8,657,1,0,1,1,0
+Tanguy Ndombele,Tottenham Hotspur,Midfielder,24,9,6,484,1,1,0,1,0
+Steven Bergwijn,Tottenham Hotspur,Forward,23,25,4,565,3,1,0,1,0
+Giovani Lo Celso,Tottenham Hotspur,Midfielder,25,9,2,238,0,0,0,0,0
+Bryan Gil,Tottenham Hotspur,Forward,20,9,0,94,0,0,0,0,0
+Joe Rodon,Tottenham Hotspur,Defender,23,3,0,89,0,0,0,0,0
+Dane Scarlett,Tottenham Hotspur,Midfielder,17,1,0,4,0,0,0,0,0
+Matty Cash,Aston Villa,Defender,23,38,38,3377,4,3,0,8,0
+Emiliano Martínez,Aston Villa,Goalkeeper,28,36,36,3240,0,0,0,4,0
+Tyrone Mings,Aston Villa,Defender,28,36,35,3189,1,3,0,11,0
+John McGinn,Aston Villa,Midfielder,26,35,35,3090,3,4,0,8,0
+Ollie Watkins,Aston Villa,Forward,25,35,33,2952,11,2,1,7,0
+Douglas Luiz,Aston Villa,Midfielder,23,34,31,2715,2,3,0,7,0
+Ezri Konsa,Aston Villa,Defender,23,29,29,2477,2,0,0,6,2
+Jacob Ramsey,Aston Villa,Midfielder,20,34,29,2467,6,1,0,6,0
+Emi Buendía,Aston Villa,Midfielder,24,35,22,1899,4,6,0,1,0
+Danny Ings,Aston Villa,Forward,29,30,22,1898,7,6,1,4,0
+Matt Targett,Aston Villa,Defender,25,17,17,1431,1,1,0,2,0
+Philippe Coutinho,Aston Villa,Midfielder,29,19,16,1329,5,3,0,0,0
+Lucas Digne,Aston Villa,Defender,28,16,16,1269,0,4,0,2,0
+Ashley Young,Aston Villa,Defender,36,24,10,1250,0,2,0,2,0
+Marvelous Nakamba,Aston Villa,Midfielder,27,16,10,904,0,0,0,5,0
+Calum Chambers,Aston Villa,Defender,26,11,9,831,1,0,0,1,0
+Leon Bailey,Aston Villa,Forward,23,18,7,761,1,2,0,3,0
+Axel Tuanzebe,Aston Villa,Defender,23,9,6,508,0,0,0,1,0
+Kortney Hause,Aston Villa,Defender,26,7,4,397,1,0,0,0,0
+Anwar El Ghazi,Aston Villa,Forward,26,9,4,386,1,1,1,2,0
+Morgan Sanson,Aston Villa,Midfielder,26,10,3,356,0,0,0,0,0
+Carney Chukwuemeka,Aston Villa,Midfielder,17,12,2,301,0,1,0,0,0
+Bertrand Traoré,Aston Villa,Midfielder,25,9,1,220,0,0,0,0,0
+Tim Iroegbunam,Aston Villa,Midfielder,18,3,1,92,0,0,0,1,0
+Robin Olsen,Aston Villa,Goalkeeper,31,1,1,90,0,0,0,0,0
+Jed Steer,Aston Villa,Goalkeeper,28,1,1,90,0,0,0,0,0
+Cameron Archer,Aston Villa,Forward,20,3,0,27,0,0,0,0,0
+Keinan Davis,Aston Villa,Forward,23,1,0,12,0,0,0,0,0
+Trézéguet,Aston Villa,Forward,26,1,0,11,0,0,0,0,0
+Jaden Philogene Bidace,Aston Villa,Forward,19,1,0,5,0,0,0,0,0
+Wesley Moraes,Aston Villa,Forward,24,1,0,1,0,0,0,0,0
+Moussa Sissoko,Watford,Midfielder,31,36,36,3220,2,1,0,5,0
+Emmanuel Dennis,Watford,Forward,23,33,30,2581,10,6,0,9,1
+Craig Cathcart,Watford,Defender,32,31,27,2396,0,1,0,3,0
+Joshua King,Watford,Forward,29,32,27,2248,5,3,1,5,0
+Ben Foster,Watford,Goalkeeper,38,26,26,2340,0,1,0,0,0
+Kiko Femenía,Watford,Defender,30,27,26,2142,0,5,0,2,0
+Juraj Kucka,Watford,Midfielder,34,26,22,1920,1,1,0,5,1
+Ismaila Sarr,Watford,Forward,23,22,21,1861,5,2,0,2,0
+Tom Cleverley,Watford,Midfielder,31,28,20,1616,0,2,0,2,0
+Samir Santos,Watford,Defender,26,19,19,1673,0,0,0,4,0
+Hassane Kamara,Watford,Defender,27,19,18,1623,1,0,0,5,1
+Imran Louza,Watford,Midfielder,22,20,17,1416,0,0,0,6,0
+João Pedro,Watford,Forward,19,28,15,1644,3,1,0,1,0
+William Troost-Ekong,Watford,Defender,27,17,15,1390,0,0,0,3,0
+Adam Masina,Watford,Defender,27,15,13,1077,0,1,0,0,0
+Christian Kabasele,Watford,Defender,30,16,12,1193,0,0,0,0,0
+Daniel Bachmann,Watford,Goalkeeper,27,12,12,1080,0,0,0,0,0
+Cucho,Watford,Forward,22,25,11,1147,5,2,0,3,0
+Jeremy Ngakia,Watford,Defender,20,16,9,903,0,0,0,0,0
+Edo Kayembe,Watford,Midfielder,23,13,9,799,0,0,0,0,0
+Ken Sema,Watford,Midfielder,27,18,7,852,0,0,0,1,0
+Danny Rose,Watford,Defender,31,8,7,689,0,0,0,4,0
+Francisco Sierralta,Watford,Defender,24,5,5,427,0,0,0,0,0
+Oghenekaro Etebo,Watford,Midfielder,25,9,4,401,0,0,0,3,0
+Ozan Tufan,Watford,Midfielder,26,7,4,334,0,0,0,0,0
+Samuel Kalu,Watford,Forward,23,4,2,222,0,0,0,0,0
+Nicolas Nkoulou,Watford,Defender,31,3,2,168,0,0,0,0,0
+Dan Gosling,Watford,Midfielder,31,4,2,166,1,0,0,0,0
+Ashley Fletcher,Watford,Forward,25,3,0,30,0,0,0,0,0
+Troy Deeney,Watford,Forward,33,2,0,25,0,0,0,0,0
+?ukasz Fabia?ski,West Ham United,Goalkeeper,36,37,37,3330,0,0,0,2,0
+Declan Rice,West Ham United,Midfielder,22,36,35,3179,1,4,0,8,0
+Tomáš Sou?ek,West Ham United,Midfielder,26,35,34,3062,5,1,0,3,0
+Jarrod Bowen,West Ham United,Forward,24,36,34,2983,12,10,0,6,0
+Michail Antonio,West Ham United,Forward,31,36,34,2971,10,8,0,8,1
+Pablo Fornals,West Ham United,Forward,25,36,32,2795,6,3,0,4,0
+Aaron Cresswell,West Ham United,Defender,31,31,31,2726,2,3,0,3,0
+Craig Dawson,West Ham United,Defender,31,34,30,2754,2,2,0,5,1
+Saïd Benrahma,West Ham United,Forward,25,32,26,2168,8,6,0,0,0
+Vladimír Coufal,West Ham United,Defender,28,28,25,2209,0,4,0,5,1
+Kurt Zouma,West Ham United,Defender,26,24,24,2078,1,0,0,1,0
+Manuel Lanzini,West Ham United,Midfielder,28,30,19,1786,5,3,3,2,0
+Ben Johnson,West Ham United,Defender,21,20,16,1397,1,0,0,1,0
+Angelo Ogbonna,West Ham United,Defender,33,11,11,921,1,0,0,1,0
+Issa Diop,West Ham United,Defender,24,13,10,963,0,1,0,0,0
+Arthur Masuaku,West Ham United,Defender,27,13,6,650,1,1,0,1,0
+Nikola Vlaši?,West Ham United,Forward,23,19,6,560,1,0,0,0,0
+Mark Noble,West Ham United,Midfielder,34,11,3,332,1,0,1,0,0
+Ryan Fredericks,West Ham United,Defender,28,7,3,307,0,0,0,1,0
+Andriy Yarmolenko,West Ham United,Forward,31,19,1,316,1,0,0,1,0
+Alphonse Areola,West Ham United,Goalkeeper,28,1,1,90,0,0,0,0,0
+Harrison Ashby,West Ham United,Defender,19,1,0,7,0,0,0,0,0
+Sonny Perkins,West Ham United,Midfielder,17,1,0,4,0,0,0,0,0
+Daniel Chesters,West Ham United,Midfielder,19,1,0,1,0,0,0,0,0
+Alex Král,West Ham United,Midfielder,23,1,0,1,0,0,0,0,0
+Conor Coady,Wolverhampton Wanderers,Defender,28,38,38,3361,4,0,0,4,0
+José Sá,Wolverhampton Wanderers,Goalkeeper,28,37,37,3285,0,1,0,3,0
+João Moutinho,Wolverhampton Wanderers,Midfielder,34,35,34,2970,2,1,0,4,0
+Romain Saïss,Wolverhampton Wanderers,Defender,31,31,31,2705,2,0,0,6,0
+Rúben Neves,Wolverhampton Wanderers,Midfielder,24,33,31,2661,4,2,0,9,0
+Max Kilman,Wolverhampton Wanderers,Defender,24,30,30,2687,1,0,0,3,0
+Raúl Jiménez,Wolverhampton Wanderers,Forward,30,34,30,2631,6,4,1,9,2
+Nélson Semedo,Wolverhampton Wanderers,Midfielder,27,25,25,2131,0,1,0,1,0
+Leander Dendoncker,Wolverhampton Wanderers,Midfielder,26,30,21,1950,2,2,0,4,0
+Rayan Aït Nouri,Wolverhampton Wanderers,Defender,20,23,20,1828,1,2,0,4,0
+Hwang Hee-chan,Wolverhampton Wanderers,Forward,25,30,20,1816,5,1,0,2,0
+Fernando Marçal,Wolverhampton Wanderers,Midfielder,32,18,17,1449,0,0,0,3,0
+Francisco Trincão,Wolverhampton Wanderers,Forward,21,28,16,1336,2,1,0,0,0
+Daniel Podence,Wolverhampton Wanderers,Forward,25,26,15,1484,2,3,0,2,0
+Adama Traoré,Wolverhampton Wanderers,Forward,25,20,10,1067,1,0,0,0,0
+Jonny Castro,Wolverhampton Wanderers,Defender,27,13,10,1024,2,0,0,1,0
+Willy Boly,Wolverhampton Wanderers,Defender,30,10,10,900,0,0,0,1,0
+Fábio Silva,Wolverhampton Wanderers,Forward,19,22,6,572,0,0,0,0,0
+Pedro Neto,Wolverhampton Wanderers,Forward,21,13,5,466,1,1,0,3,0
+Toti Gomes,Wolverhampton Wanderers,Defender,22,4,4,360,0,0,0,1,0
+Ki-Jana Hoever,Wolverhampton Wanderers,Defender,19,8,4,308,0,0,0,1,0
+Luke Cundle,Wolverhampton Wanderers,Midfielder,19,4,2,180,0,0,0,0,0
+Chiquinho,Wolverhampton Wanderers,Defender,21,8,1,208,0,3,0,0,0
+John Ruddy,Wolverhampton Wanderers,Goalkeeper,34,2,1,135,0,0,0,0,0
+Chem Campbell,Wolverhampton Wanderers,Midfielder,18,1,0,13,0,0,0,0,0
+Morgan Gibbs-White,Wolverhampton Wanderers,Defender,21,2,0,9,0,0,0,1,0
