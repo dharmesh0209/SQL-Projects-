@@ -18,7 +18,7 @@ Player stats data was scrapped from web to extract Assits and Minutes played dat
 The project will utilize SQL (Structured Query Language) for data analysis. SQL allows for efficient querying, aggregation, and manipulation of large datasets, making it an ideal choice for analyzing the EPL data.
 
 5.Tools/Languages Used
-MS EXCEL,MY SQL and Python.
+MS EXCEL,MY SQL.
 
 Key steps in the methodology include:
 
